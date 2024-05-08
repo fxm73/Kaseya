@@ -1,7 +1,7 @@
 # Wasabi / AWS S3 File Uploader Script
 
 ## Purpose
-This PowerShell script automates the process of downloading files from the IT Glue API and uploading them to an AWS S3 bucket. It is designed to handle secure credential management and provide clear logging for each step of the process.
+This PowerShell script automates the process of downloading Export files from the IT Glue API and uploading them to an Wasabi / AWS S3 bucket. It is designed to handle secure credential management and provide clear logging for each step of the process.
 
 ## Prerequisites
 Before using this script, ensure you have the following configured on your system:
